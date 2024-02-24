@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "FdeCV6/P/6Chn5RKmpfRmXJNSTP5z9bX4MRSqL5JjVsLrknnry9BMtKj+jnBH3/eCx0E08Z4dppduC2cIF5pyw==",
+  "success": true,
+  "projectFilePath": "/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/BasicInterfaces.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.ref/7.0.15/microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.aspnetcore.app.ref/7.0.15/microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.netcore.app.host.linux-x64/7.0.15/microsoft.netcore.app.host.linux-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

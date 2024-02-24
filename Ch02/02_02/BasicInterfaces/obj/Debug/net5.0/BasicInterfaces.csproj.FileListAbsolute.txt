@@ -1,0 +1,16 @@
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/bin/Debug/net5.0/BasicInterfaces
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/bin/Debug/net5.0/BasicInterfaces.deps.json
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/bin/Debug/net5.0/BasicInterfaces.runtimeconfig.json
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/bin/Debug/net5.0/BasicInterfaces.runtimeconfig.dev.json
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/bin/Debug/net5.0/BasicInterfaces.dll
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/bin/Debug/net5.0/BasicInterfaces.pdb
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/obj/Debug/net5.0/BasicInterfaces.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/obj/Debug/net5.0/BasicInterfaces.AssemblyInfoInputs.cache
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/obj/Debug/net5.0/BasicInterfaces.AssemblyInfo.cs
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/obj/Debug/net5.0/BasicInterfaces.csproj.CoreCompileInputs.cache
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/obj/Debug/net5.0/BasicInterfaces.sourcelink.json
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/obj/Debug/net5.0/BasicInterfaces.dll
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/obj/Debug/net5.0/refint/BasicInterfaces.dll
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/obj/Debug/net5.0/BasicInterfaces.pdb
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/obj/Debug/net5.0/BasicInterfaces.genruntimeconfig.cache
+/workspaces/C-sharp-Interfaces-and-generics-3152729/Ch02/02_02/BasicInterfaces/obj/Debug/net5.0/ref/BasicInterfaces.dll
